@@ -1,0 +1,22 @@
+body{
+    border-radius: 2px solid red;
+    text-shadow: -1px 1px 1px lightyellow;
+    text-align: center;
+    margin: 1%;
+    padding: 1%;
+    background: url(wallpaperflare.com_wallpaper\ \(1\).jpg);
+    color: rgb(0, 0, 0);
+    box-shadow: 2px 3px 4px rgba(98, 119, 85, 0.333);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h3{
+    color: linen;
+}
+h2{
+    color: rgb(0, 0, 0)
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
